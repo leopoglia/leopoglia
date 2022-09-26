@@ -1,9 +1,8 @@
 ### 📊 Github Stats
 
-<a href="https://github.com/jstrieb/github-stats">
-<img src="https://github.com/leopoglia/leopoglia/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/leopoglia/leopoglia/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
+<img src="https://raw.githubusercontent.com/leopoglia/leopoglia/5fcd472a66742ec4863efedb50076c147133b016/generated/overview.svg" alt="" />
+<img src="https://raw.githubusercontent.com/leopoglia/leopoglia/5fcd472a66742ec4863efedb50076c147133b016/generated/languages.svg" />
+
 
 ### 🔨 Languages and Tools:
 
