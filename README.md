@@ -2,9 +2,8 @@
 
 <a href="https://github.com/leopoglia/leopoglia">
                 <img src="https://raw.githubusercontent.com/leopoglia/leopoglia/5fcd472a66742ec4863efedb50076c147133b016/generated/overview.svg#gh-dark-mode-only" />
-                
                 <img src="https://raw.githubusercontent.com/leopoglia/leopoglia/17c406a2e9326659423b2512ec149502ac60b015/generated/overview.svg#gh-dark-mode-only" />
-                <img src="https://github.com/leopoglia/leopoglia/blob/master/generated/languages.svg#gh-dark-mode-only" />
+                
 </a>
 
 ### 🔨 Languages and Tools:
