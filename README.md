@@ -1,7 +1,7 @@
 ### 📊 Github Stats
 
 <a href="https://github.com/leopoglia/leopoglia">
-                <img src="https://raw.githubusercontent.com/leopoglia/leopoglia/17c406a2e9326659423b2512ec149502ac60b015/generated/overview.svg#gh-dark-mode-only" />
+                <img src="https://raw.githubusercontent.com/leopoglia/leopoglia/0f63be96fa258fbb4c432c0a1fdf5802c1b112d9/generated/overview.svg#gh-dark-mode-only" />
                 <img src="https://raw.githubusercontent.com/leopoglia/leopoglia/e692825921c6fa446f35c53363ec93cdcbc535b8/generated/languages.svg#gh-dark-mode-only"/>      </a>
 
 ### 🔨 Languages and Tools:
