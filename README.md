@@ -15,4 +15,3 @@
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://github.com/leopoglia/leopoglia/blob/master/imgs/node.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/leopoglia/leopoglia/blob/master/imgs/git-scm.svg" align="left" alt="Git" height='42px'/></a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/leopoglia/leopoglia/blob/master/imgs/figma.svg" alt="Figma" height='42px'/></a>
-
