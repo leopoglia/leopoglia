@@ -3,7 +3,7 @@
 
 
 <a href="https://github.com/leopoglia/leopoglia">
-                <img src="https://raw.githubusercontent.com/leopoglia/leopoglia/2cb46f658944fdce274c4b02f84e142a840fdeb8/generated/languages.svg#gh-dark-mode-only" />
+                <img src="https://raw.githubusercontent.com/leopoglia/leopoglia/64c584463d5f95740af0368eb821a87184ea7135/generated/languages.svg#gh-dark-mode-only" />
                 <img src="https://raw.githubusercontent.com/leopoglia/leopoglia/bd0d86e8a76ea748bb6f08f7ca68540aa82b90dc/generated/overview.svg#gh-dark-mode-only"/>     
 </a>
 
