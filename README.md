@@ -18,3 +18,4 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/leopoglia/leopoglia/blob/master/imgs/git-scm.svg" align="left" alt="Git" height='42px'/></a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/leopoglia/leopoglia/blob/master/imgs/figma.svg" alt="Figma" height='42px'/></a>
 
+
