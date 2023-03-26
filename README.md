@@ -7,7 +7,6 @@
                 <img src="https://raw.githubusercontent.com/leopoglia/leopoglia/7ede33ceb15f5c4aafd1b05e6192259517e32b69/generated/overview.svg#gh-dark-mode-only"/>     
 </a>
 
-
 ### 🔨 Languages and Tools:
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://github.com/leopoglia/leopoglia/blob/master/imgs/java.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://github.com/leopoglia/leopoglia/blob/master/imgs/javascript.svg"> </a>
