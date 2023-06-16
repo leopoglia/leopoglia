@@ -4,7 +4,7 @@
 
 <a href="https://github.com/leopoglia/leopoglia">
                 <img src="https://github.com/leopoglia/leopoglia/blob/master/generated/languages.svg#gh-dark-mode-only" />
-                <img src="https://raw.githubusercontent.com/leopoglia/leopoglia/7ede33ceb15f5c4aafd1b05e6192259517e32b69/generated/overview.svg#gh-dark-mode-only"/>     
+                <img src="https://github.com/leopoglia/leopoglia/blob/master/generated/overview.svg#gh-dark-mode-only"/>     
 </a>
 
 ### 🔨 Languages and Tools:
